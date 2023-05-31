@@ -1,10 +1,5 @@
 ### Hi 👋, I'm Fatma
-
-<!--
-**fatossrhnn/fatossrhnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+                A passionate Frontend | React Developer from Turkey
 - 🔭 I have been still working remotely and freelance.
 - 🌱 I’m currently learning on Javascript, React and have a tendency to dynamic and stylish web desing
 - 👯 I have communication skills and high motivation, goal-oriented teamwork skills.
