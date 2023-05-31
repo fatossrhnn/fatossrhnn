@@ -1,4 +1,4 @@
-### Hi I'm Fatma 👋
+### Hi 👋, I'm Fatma
 
 <!--
 **fatossrhnn/fatossrhnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
